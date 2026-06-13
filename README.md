@@ -3,6 +3,9 @@
 Um mascote virtual completo para o Windows Desktop, construído em **Python + PyQt6**.
 Bob vive na sua área de trabalho, tem física real, humor, roupas, brinquedos e muito mais!
 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![PyQt6](https://img.shields.io/badge/PyQt6-Framework-green.svg)
+![License](https://img.shields.io/github/license/DhaaankMK/Bob-Pet)
 ---
 
 ## 📁 Estrutura do Projeto
