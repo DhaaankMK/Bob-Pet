@@ -1,0 +1,23 @@
+{
+    "running": false,
+    "x": 100,
+    "y": 100,
+    "vx": 0.0,
+    "vy": 0.0,
+    "mood": "happy",
+    "animation": "idle",
+    "clothes": [],
+    "toys_on_screen": [],
+    "is_dragging": false,
+    "is_sleeping": false,
+    "last_interaction": 0,
+    "idle_time": 0,
+    "facing": "right",
+    "phrase": "",
+    "stats": {
+        "total_interactions": 0,
+        "toys_played": 0,
+        "distance_walked": 0.0,
+        "session_start": 0
+    }
+}

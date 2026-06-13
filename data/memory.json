@@ -1,0 +1,18 @@
+{
+    "user_name": "",
+    "favorite_toy": "",
+    "favorite_clothes": [],
+    "times_interacted": 0,
+    "times_clicked": 0,
+    "times_dragged": 0,
+    "toys_played": 0,
+    "total_sessions": 0,
+    "last_session": 0,
+    "first_run": true,
+    "last_mood": "happy",
+    "conversations": [],
+    "achievements": [],
+    "total_distance_walked": 0.0,
+    "times_jumped": 0,
+    "custom_notes": ""
+}
